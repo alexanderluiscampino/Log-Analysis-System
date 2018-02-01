@@ -1,0 +1,3 @@
+## List here all IP address that are deemed bad. One per line. All items that moved out of account under
+## the IP address listed here will be selected nad put on the itemList.item file
+200.84.14.211
